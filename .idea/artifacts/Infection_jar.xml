@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Infection:jar">
+    <output-path>$PROJECT_DIR$/../../Desktop/minecraft/plugins</output-path>
+    <root id="archive" name="Infection.jar">
+      <element id="module-output" name="Infection" />
+    </root>
+  </artifact>
+</component>
